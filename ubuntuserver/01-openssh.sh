@@ -8,8 +8,8 @@
 # Instagram: https://www.instagram.com/procedimentoem/?hl=pt-br
 # Github: https://github.com/vaamonde
 # Data de criação: 10/10/2021
-# Data de atualização: 24/02/2022
-# Versão: 0.24
+# Data de atualização: 08/04/2022
+# Versão: 0.25
 # Testado e homologado para a versão do Ubuntu Server 20.04.x LTS x64
 # Testado e homologado para a versão do OpenSSH Server v8.2.x
 #
@@ -32,7 +32,7 @@
 # Acesso remoto utilizando o GNU/Linux ou Microsoft Windows
 #
 # Linux Mint Terminal: Ctrl+Alt+T
-# 	ssh vaamonde@172.16.100.20
+# 	ssh senac@172.16.1.20
 #	ssh vaamonde@ssh.vaamonde.intra
 #
 # Windows Powershell: Menu, Powershell 
